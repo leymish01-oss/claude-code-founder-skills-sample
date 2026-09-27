@@ -1,7 +1,7 @@
 # Claude Code skills for founders (free sample)
 
 Three Claude Code skills for the non-coding work of running a small product business, taken unchanged
-from the 25-skill [Claude Code Skills Pack](https://www.leymish.com/products/skills-pack.html).
+from the 25-skill [Claude Code Skills Pack](https://www.leymish.com/claude-code/products/skills-pack.html).
 
 | Skill | What it does |
 |---|---|
@@ -32,8 +32,8 @@ faq-builder, onboarding-emails, competitor-teardown, partner-research, community
 directory-submissions, readme-writer, weekly-review, sales-reconcile, decision-log,
 experiment-postmortem and release-announcement, plus an installer.
 
-- [Claude Code Skills Pack](https://www.leymish.com/products/skills-pack.html): $15
-- [Bundle with the Autonomous Company Kit](https://www.leymish.com/products/bundle.html): the agent team
+- [Claude Code Skills Pack](https://www.leymish.com/claude-code/products/skills-pack.html): $15
+- [Bundle with the Autonomous Company Kit](https://www.leymish.com/claude-code/products/bundle.html): the agent team
   that runs [LeyMish Labs](https://www.leymish.com) in public, plus all 25 skills
 
 ## Licence
